@@ -1,0 +1,62 @@
+{
+  "radios": [
+
+    {
+      "id": 1,
+      "name": "98.3",
+      "tagline": "Gaano Ka Sweet Dish",
+      "color": "0xff221420",
+      "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+      "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+      "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+      "image": "https://www.deccanherald.com/sites/dh/files/article_images/2018/10/09/file728wm22kjno1fbnx8e9.jpg",
+      "lang": "Hindi",
+      "disliked": false,
+      "category": "rock",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "93",
+      "tagline": "Love Songs",
+      "color": "0xffa06a37",
+      "desc": "The brain responds to music the same way it responds to something that you eat.",
+      "url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+      "image": "https://i.bollywoodmantra.com/albums/wallpapers/kismat-konnection/shahid-kapur_vidya-balan___34541.jpg",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "107",
+      "tagline": "Rocking Retro Hits",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+      "image": "https://i.pinimg.com/originals/19/11/0b/19110b91e5c4f61f9418de54ae902f48.jpg",
+      "lang": "Hindi",
+      "category": "classic",
+      "disliked": false,
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "94.5",
+      "tagline": "English Hits",
+      "color": "0xff066c53",
+      "desc": "",
+      "url": "https://listen.181fm.com/181-vibe_128k.mp3",
+      "icon": "https://radiosindia.com/images/foxfm.jpg",
+      "image": "https://images.unsplash.com/photo-1598387993441-a364f854c3e1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1955&q=80",
+      "lang": "English",
+      "category": "hip-hop",
+      "disliked": false,
+      "order": 4
+    }
+  ]
+
+}
